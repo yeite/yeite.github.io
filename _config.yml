@@ -1,7 +1,7 @@
 # Site settings
 title: mz
 baseurl: ""
-url: "https://syaning.github.io"
+url: "https://mz.github.io"
 
 # Build settings
 kramdown:
