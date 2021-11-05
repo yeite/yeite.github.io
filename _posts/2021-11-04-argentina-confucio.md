@@ -1,6 +1,6 @@
 ---
 layout:  post
-title:   La solución de Argentina esta en las enseñanzas de Confucio
+title:   La solución de Argentina está en las enseñanzas de Confucio
 date:    2021-11-04 00:00:00 +0800
 mathjax: true
 ---
