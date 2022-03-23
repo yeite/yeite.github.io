@@ -1,7 +1,7 @@
 ---
 layout:  post
 title:   Procesadores de texto para escritores que recomiendo
-date:    2022-23-03 00:00:00 +0800
+date:    2022-03-23 00:00:00 +0800
 mathjax: true
 ---
 
