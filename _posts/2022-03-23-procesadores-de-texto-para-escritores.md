@@ -13,15 +13,19 @@ Todas estas **tienen algo en común**. Son livianas, sencillas visualmente, sin 
 
 
 
-## Notas
+------
 
-<img src="https://support.apple.com/library/content/dam/edam/applecare/images/en_US/ios/ios11-notes-app-icon.png" alt="Notas" style="zoom:50%;" />
+
+
+## Notas
 
 Mis ideas empiezan aquí, escribiendo en la aplicación [Notas de iPhone](https://apps.apple.com/ar/app/notas/id1110145109). Si bien tiene funciones acotadas, es ideal para volcar esa idea, pensamiento o recordatorio que se me cruza por mi cabeza para no olvidarme. 
 
 Poder acceder a ellos en todo momento, teniéndolo sincronizado entre mi iPhone y el Mac es todo lo que necesito.
 
 Para agilizar la tarea de escribir y que la idea no se me escape utilizo un **atajo rápido** para acceder directamente a una *Nota rápida*. Te comparto [ese atajo](https://www.icloud.com/shortcuts/21fd8c559e3d498993fd021adf4db2de) por si también lo querés utilizar.
+
+------
 
 
 
@@ -37,9 +41,13 @@ Si quieres algo similar a ZenPen para tu Mac y otros sistemas te recomiendo la a
 
 
 
+------
+
+
+
 ## Typora
 
-<img src="https://cdn.icon-icons.com/icons2/3053/PNG/512/typora_macos_bigsur_icon_189600.png" alt="Typora" style="zoom:20%;" />
+
 
 Este editor *markdown* que utilizo solo en la Mac se ha convertido en mi favorita, no solo por su rapidez y su fluidez, sino que además puedes acceder rápidamente a los directorios de tus carpetas guardadas en la nube y la posibilidades de incrustar imágenes en tus archivos *markdwon* de manera sencilla.
 
@@ -49,11 +57,11 @@ Desde la versión 1.0, la aplicación se a vuelto paga y cuesta unos 15 dólares
 
 
 
+------
+
+
+
 ## Ulysses
-
-<img src="https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/33/a8/b9/33a8b9bc-d1ea-b509-026c-8ce1de55d73c/Ulysses-Release-0-85-220-0-4-2x-0-0-0.png/1200x630bb.png" alt="Ulysses" style="zoom:20%;" />
-
-
 
 Este es el procesador de texto markdown que hace más tiempo vengo usando en el Mac. 
 
@@ -65,9 +73,17 @@ Actualmente **[Ulysses posee un sistema de suscripción mensual-anual](https://a
 
 
 
+------
+
+
+
 ## Word
 
-Para terminar, aunque no siempre, suelo volcar el texto escrito en Word para verificar el vocabulario. Si bien **Typora** y **Ulysses** poseen correctores ortográficos, el de Microsoft esta muy desarrollado, además de brindarte la posibilidad de ofrecerte sinónimos para las palabras.
+Para terminar, aunque no siempre, suelo volcar el texto escrito en Word para verificar el vocabulario. Si bien **Typora** y **Ulysses** poseen correctores ortográficos, el de Microsoft esta muy desarrollado, además de brindarte la posibilidad de ofrecerte **sinónimos para las palabras**.
+
+
+
+------
 
 
 
