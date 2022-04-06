@@ -7,9 +7,9 @@ mathjax: true
 
 
 
-Hoy en día, hay muchísimas opciones en el mercado , ya sean gratuitas y pagas de aplicaciones para escribir. En este post hago un recorrido por las herramientas que utilizo diariamente y hacen más fácil el proceso creativo. 
+Hoy en día, hay muchísimas opciones en el mercado de aplicaciones para escribir, tanto gratuitas como pagas. En este post hago un recorrido por las herramientas que utilizo diariamente y hacen más fácil el proceso creativo. 
 
-Todas estas **tienen algo en común**. Son livianas, sencillas visualmente, sin tantas opciones innecesarias logrando liberarte de toda distracción para que solo te concentres en lo esencial: **escribir**.  
+Todas estas **tienen algo en común**. Son livianas, visualmente sencillas, sin tantas opciones innecesarias logrando liberarte de toda distracción para que solo te concentres en lo esencial: **escribir**.  
 
 
 
