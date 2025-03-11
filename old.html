@@ -1,0 +1,53 @@
+---
+layout: default
+---
+<div class="home">
+  <section>
+    <h2 class="smallcap">Sobre mí</h2>
+    <p>Comunicador, escritor, diseñador, creador, desarrollador, soñador.</p>
+  </section>
+    
+
+    
+  <section>
+    <h2 class="smallcap">Últimos post</h2>
+    <ul class="post-list">
+      {% for post in site.posts limit:5 %}
+      <li>
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+        <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p><a href="{{ "/archives/" | prepend: site.baseurl }}">leer más posts...</a></p>
+  </section>
+    
+    
+     <section>
+    <h2 class="smallcap">Proyectos</h2>
+  
+    
+    <p><a href="https://ycar.super.site/"><bold>ycar</bold></a> Plantilla en Notion para llevar el control de tu vehículo. ¡Gratis!.</p> 
+
+     <p><a href="{{ site.baseurl }}/lps"><bold>LPS</bold></a> Críticas sobre los libros, películas y series que voy consumiendo.</p>
+     <p><a href="https://esencial.writeas.com/"><bold>esencial</bold></a> Un poco sobre minimalismo, buenos hábitos, pensamientos y recortes de lo que leo.</p> 
+    
+         
+  </section>
+    
+    
+    
+    <section>
+    <h2 class="smallcap">Contacto</h2>
+  
+         
+
+     <p><a href="https://twitter.com/matiasrz_"><bold>Twitter</bold></a></p> 
+      <p><bold>email: </bold>matiaszappala (@) gmail .com</p> 
+         
+         
+         
+  </section>
+ 
+    
+</div>
